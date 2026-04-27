@@ -1,4 +1,4 @@
-# github-sandbox gemma
+# github-sandbox gemma2
 
 # 📥 Download Files via Commit Message
 
